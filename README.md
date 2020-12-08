@@ -18,5 +18,6 @@ My name is Alexandros Kampos and I'm a full stack software developer. I am livin
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=yellowgreen)
 
 ### GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkampos&theme=merko" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexkampos&show_icons=true&theme=merko" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkampos&theme=merko" />
+
