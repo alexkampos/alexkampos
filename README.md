@@ -1,3 +1,3 @@
 <img src="images/cover.png" />
 
-# Hi there 
+# Hi there <img src="gifs/wave.gif" />,
